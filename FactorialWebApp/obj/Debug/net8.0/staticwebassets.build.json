@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ldpX8dFMfuVp8B340PDcV0PIQUIOgUNcSM1DDCPgkh0=",
+  "Source": "FactorialWebApp",
+  "BasePath": "_content/FactorialWebApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

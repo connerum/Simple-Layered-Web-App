@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorialLibrary", "FactorialLibrary\FactorialLibrary.csproj", "{CE16C0D5-75FF-4F5B-9AC2-5FF363358406}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorialWebApp", "FactorialWebApp\FactorialWebApp.csproj", "{12C66332-8941-4BDE-8B54-4AE7350D276B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorialTests", "FactorialTests\FactorialTests.csproj", "{443BF648-7BCA-4D52-8EE7-0263C9B61B52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE16C0D5-75FF-4F5B-9AC2-5FF363358406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE16C0D5-75FF-4F5B-9AC2-5FF363358406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE16C0D5-75FF-4F5B-9AC2-5FF363358406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE16C0D5-75FF-4F5B-9AC2-5FF363358406}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12C66332-8941-4BDE-8B54-4AE7350D276B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12C66332-8941-4BDE-8B54-4AE7350D276B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12C66332-8941-4BDE-8B54-4AE7350D276B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12C66332-8941-4BDE-8B54-4AE7350D276B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{443BF648-7BCA-4D52-8EE7-0263C9B61B52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{443BF648-7BCA-4D52-8EE7-0263C9B61B52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{443BF648-7BCA-4D52-8EE7-0263C9B61B52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{443BF648-7BCA-4D52-8EE7-0263C9B61B52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

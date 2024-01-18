@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FactorialWebApp/1.0.0": {
+        "dependencies": {
+          "FactorialLibrary": "1.0.0"
+        },
+        "runtime": {
+          "FactorialWebApp.dll": {}
+        }
+      },
+      "FactorialLibrary/1.0.0": {
+        "runtime": {
+          "FactorialLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FactorialWebApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FactorialLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
